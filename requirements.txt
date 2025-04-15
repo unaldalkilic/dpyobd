@@ -1,0 +1,10 @@
+docutils==0.21.2
+ELM327-emulator==3.0.0
+lockfile==0.12.2
+obd==0.7.2
+Pint==0.20.1
+pyserial==3.5
+pyserial-asyncio==0.6
+python-daemon==3.0.1
+PyYAML==6.0.2
+setuptools==72.1.0
